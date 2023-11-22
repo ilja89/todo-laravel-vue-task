@@ -1,0 +1,11 @@
+:root {
+    --color-success: green;
+    --color-intermediate: gold;
+    --color-error: red;
+    --color-primary: blue;
+
+    --color-bg-main: white;
+    --color-bg-secondary: whitesmoke;
+
+    --color-text-light: white;
+}
